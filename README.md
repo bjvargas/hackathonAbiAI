@@ -1,6 +1,6 @@
 # Projeto HackathonAbiAI
 
-Evento da ABI-inbev voltado para o uso das interligencias artificiais no dia a dia.
+Evento da ABI-inbev voltado para o uso das inteligências artificiais no dia a dia.
 
 Este é um projeto em Spring Boot que fornece uma API RESTful para consultar a temperatura com base no CEP fornecido. Também é possível buscar produtos em uma base noSQL de acordo com a temperatura atual e/ou estação do ano.
 
